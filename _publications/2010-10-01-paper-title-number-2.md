@@ -6,7 +6,7 @@ excerpt: 'The work consists in recognizing the gestures of the alphabet in Peruv
 date: 2019-05-29
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Lazo C., Sanchez Z., del Carpio C. (2019) A Static Hand Gesture Recognition for Peruvian Sign Language Using Digital Image Processing and Deep Learning. In: Iano Y., Arthur R., Saotome O., Vieira Estrela V., Loschi H. (eds) Proceedings of the 4th Brazilian Technology Symposium (BTSym'18). BTSym 2018. Smart Innovation, Systems and Technologies, vol 140. Springer, Cham.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
