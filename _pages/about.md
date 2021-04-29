@@ -12,7 +12,7 @@ I am a mechatronics engineer, interested in data analysis and artificial intelli
 
 Publications
 ------
-1. <i>Alberta, Canada</i> - Congresses: FURCA 2020 at University of Alberta 
+1. <b>Z. Sanchez</b>, A. Alva, M. Zimic, C. del Carpio, "An algorithm for characterizing skin moles using image processing and machine learning", <i>International Journal of Electrical and Computer Engineering (IJECE)</i>, vol. 11, no. 4, Aug. 2021.
 1. C. Lazo, <b>Z. Sanchez</b> and C. del Carpio, "A Static Hand Gesture Recognition for Peruvian Sign Language Using Digital Image Processing and Deep Learning", <i>Proceedings of the 4th Brazilian Technology Symposium (BTSym'18)</i>, vol 140, May. 2019.
 1. C. Bazan Yaranga, <b>Z. Sanchez</b>, and R. Rodriguez, "Transfer learning using convolutional neural networks for driver distraction recognition", <i>TECNIA</i>, vol. 28, no. 2, Dec. 2018.
 
