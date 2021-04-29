@@ -14,7 +14,7 @@ Publications
 ------
 1. <i>Alberta, Canada</i> - Congresses: FURCA 2020 at University of Alberta 
 1. <i>Chiba, Japan</i> - CanSat Leader Training Program CLTP10 at Nihon University – Agosto 2019 UNISEC
-1. C. Bazan Yaranga, Z. Sanchez, and R. Rodriguez, "Transfer learning using convolutional neural networks for driver distraction recognition", tecnia, vol. 28, no. 2, Dec. 2018.
+1. C. Bazan Yaranga, <b>Z. Sanchez</b>, and R. Rodriguez, "Transfer learning using convolutional neural networks for driver distraction recognition", tecnia, vol. 28, no. 2, Dec. 2018.
 
 Congresses - Contests:
 ======
