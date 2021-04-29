@@ -13,11 +13,11 @@ I am a mechatronics engineer, interested in data analysis and artificial intelli
 Publications
 ------
 1. <i>Alberta, Canada</i> - Congresses: FURCA 2020 at University of Alberta 
-1. <i>Chiba, Japan</i> - CanSat Leader Training Program CLTP10 at Nihon University – Agosto 2019 UNISEC
-1. C. Bazan Yaranga, <b>Z. Sanchez</b>, and R. Rodriguez, "Transfer learning using convolutional neural networks for driver distraction recognition", tecnia, vol. 28, no. 2, Dec. 2018.
+1. C. Lazo, <b>Z. Sanchez</b> and C. del Carpio, "A Static Hand Gesture Recognition for Peruvian Sign Language Using Digital Image Processing and Deep Learning", <i>Proceedings of the 4th Brazilian Technology Symposium (BTSym'18)</i>, vol 140, May. 2019.
+1. C. Bazan Yaranga, <b>Z. Sanchez</b>, and R. Rodriguez, "Transfer learning using convolutional neural networks for driver distraction recognition", <i>TECNIA</i>, vol. 28, no. 2, Dec. 2018.
 
 Congresses - Contests:
-======
+------
 1. <i>Alberta, Canada</i> - Congresses: FURCA 2020 at University of Alberta 
 1. <i>Chiba, Japan</i> - CanSat Leader Training Program CLTP10 at Nihon University – Agosto 2019 UNISEC
 1. <i>Campinas/SP, Brazil</i> - Congresses: Brazilian Technology Symposium’18 - Universidade Presbiteriana Mackenzie - Campus Campinas 
