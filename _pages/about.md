@@ -19,7 +19,6 @@ Publications
 Github Repositories:
 ------
 1. <i>VirtualBoard</i> - Making a virtual whiteboard with python using computer vision [LINK](https://github.com/zaise/VirtualBoard)
-![](/images/test02.gif | width=100)
 
 Congresses - Contests:
 ------
