@@ -19,7 +19,7 @@ Publications
 Github Repositories:
 ------
 1. <i>VirtualBoard</i> - Making a virtual whiteboard with python using computer vision
-![Editing a markdown file for a talk](https://github.com/zaise/VirtualBoard/blob/main/test02.gif)
+![Editing a markdown file for a talk](/images/test02.gif)
 1. <i>Chiba, Japan</i> - CanSat Leader Training Program CLTP10 at Nihon University – Agosto 2019 UNISEC
 1. <i>Campinas/SP, Brazil</i> - Congresses: Brazilian Technology Symposium’18 - Universidade Presbiteriana Mackenzie - Campus Campinas 
 1. <i>Nevada, USA</i> - Invited guest - International Competition ARLISS 2018 (AEROPAC - UNISEC)
