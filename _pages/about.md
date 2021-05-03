@@ -16,6 +16,14 @@ Publications
 1. C. Lazo, <b>Z. Sanchez</b> and C. del Carpio, ["A Static Hand Gesture Recognition for Peruvian Sign Language Using Digital Image Processing and Deep Learning"](https://zaise.github.io/publication/2019-05-29-Hand-Gesture), <i>Proceedings of the 4th Brazilian Technology Symposium (BTSym'18)</i>, vol 140, May. 2019.
 1. C. Bazan, <b>Z. Sanchez</b>, and R. Rodriguez, ["Transfer learning using convolutional neural networks for driver distraction recognition"](https://zaise.github.io/publication/2018-12-17-Transfer-learning), <i>TECNIA</i>, vol. 28, no. 2, Dec. 2018.
 
+Github Repositories:
+------
+1. <i>VirtualBoard</i> - Making a virtual whiteboard with python using computer vision
+![Editing a markdown file for a talk](https://github.com/zaise/VirtualBoard/blob/main/test02.gif)
+1. <i>Chiba, Japan</i> - CanSat Leader Training Program CLTP10 at Nihon University – Agosto 2019 UNISEC
+1. <i>Campinas/SP, Brazil</i> - Congresses: Brazilian Technology Symposium’18 - Universidade Presbiteriana Mackenzie - Campus Campinas 
+1. <i>Nevada, USA</i> - Invited guest - International Competition ARLISS 2018 (AEROPAC - UNISEC)
+
 Congresses - Contests:
 ------
 1. <i>Alberta, Canada</i> - Congresses: FURCA 2020 at University of Alberta 
